@@ -7,34 +7,24 @@
 
 ---
 
-### 🔧 About Me  
-🔹 Electronics Engineer with experience in **hardware design and software development**.  
-🔹 Focused on **ESP32, Atmel, PIC, Raspberry Pi, and STM32**.  
-🔹 Programming in **Python, C/C++, and ESP-IDF**.  
-🔹 Development of **KiCad plugins and scripts**.  
-🔹 Experienced in **Linux scripting and system management**.  
+## 🔧 About Me  
+I am an **Electronics Engineer** passionate about merging **hardware and software** into innovative solutions. My work revolves around designing, developing, and optimizing **embedded systems**, focusing on **ESP32, microcontrollers, and PCB design**.  
+
+- 🔹 **Hardware & software development**: ESP32, Atmel, PIC, STM32  
+- 🔹 **Programming**: Python, C/C++, ESP-IDF  
+- 🔹 **PCB design**: KiCad, Altium, LTSpice  
+- 🔹 **Linux scripting & automation**  
 
 ---
 
-### 🎬 GIF Animation (Optional)  
+## 🔗 Connect with Me  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
-</p>
-
-*(You can replace this GIF with a custom animation related to your work!)*  
+[![GitHub](https://img.shields.io/badge/GitHub-PoleG97-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoleG97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 ---
 
-### 🛠️ Technologies & Tools  
-
-📌 *(If you prefer a graphical representation instead of badges, add an image below.)*  
-
-<p align="center">
-  <img src="https://your-image-link.com/tech-stack.png" alt="Technology Stack">
-</p>
-
-📌 *(Or keep the badge format below.)*  
+## 🛠️ Technologies & Tools  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -49,7 +39,21 @@
 
 ---
 
-### 🚀 What I’m currently learning  
+## 📂 Featured Projects  
+
+📡 **[Public Repositories](https://github.com/PoleG97?tab=repositories)**  
+🔹 **KiCad plugins & automation scripts** 🔌  
+🔹 **Python tools for Raspberry Pi** ⚙️  
+🔹 **ESP32 and microcontroller firmware** 📡  
+
+🔒 **Upcoming Releases (Work in Progress)**  
+- 🔥 **Course materials & schematics** from Fedevel courses *(Advanced Digital Hardware Design, Mixed Signal Hardware Design with KiCad)*  
+- 🛠️ **Hardware shield design** for CM5  
+- ⚡ **More projects coming soon...**  
+
+---
+
+## 🚀 What I’m Currently Learning  
 - 🔹 **FPGA and advanced digital hardware design**  
 - 🔹 **Advanced PCB design with KiCad and Altium**  
 - 🔹 **FreeRTOS for embedded systems**  
@@ -57,47 +61,13 @@
 
 ---
 
-### 📂 Featured Projects  
-
-📡 **[Public Repositories](https://github.com/PoleG97?tab=repositories)**  
-🔹 KiCad plugins and automation scripts 🔌  
-🔹 Python tools for Raspberry Pi ⚙️  
-🔹 ESP32 and microcontroller firmware 📡  
-
-🔒 **Upcoming Releases (Work in Progress)**  
-- 🔥 **Course materials and schematics** from Fedevel courses *(Advanced Digital Hardware Design, Mixed Signal Hardware Design with KiCad)*  
-- 🛠️ **Hardware shield design** for CM5  
-- ⚡ **More projects coming soon...**  
-
-### 📸 Visual Showcase  
-
-📌 *(Here you can showcase images from your projects!)*  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://your-image-link.com/esp32-project.png" width="400"/>
-  <img src="https://your-image-link.com/kicad-plugin.png" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PoleG97&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoleG97&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoleG97&theme=dark&hide_border=true" height="150"/>
 </p>
-
----
-
-### 🏆 GitHub Achievements  
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PoleG97&theme=onedark&no-bg=true&no-frame=true)
-
----
-
-### 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoleG97&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoleG97&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PoleG97&theme=dark&hide_border=true)
-
----
-
-### 🔗 Connect with me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-PoleG97-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoleG97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 ---
 

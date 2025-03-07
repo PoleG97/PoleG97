@@ -1,26 +1,20 @@
 <h1 align="center">Hi there! 👋 I'm Jairo García (PoleG97)</h1>
 <h3 align="center">Where hardware meets software, I make them work together.</h3>
 
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="PoleG97 Banner" width="100%">
-</p>
 
----
 
 ## 🔧 About Me  
 I am an **Electronics Engineer** passionate about merging **hardware and software** into innovative solutions. My work revolves around designing, developing, and optimizing **embedded systems**, focusing on **ESP32, microcontrollers, and PCB design**.  
 
-- 🔹 **Hardware & software development**: ESP32, Atmel, PIC, STM32  
-- 🔹 **Programming**: Python, C/C++, ESP-IDF  
-- 🔹 **PCB design**: KiCad, Altium, LTSpice  
-- 🔹 **Linux scripting & automation**  
+- **Hardware & software development**: ESP32, Atmel, PIC, STM32  
+- **Programming**: Python, C/C++, ESP-IDF  
+- **PCB design**: KiCad, Altium, LTSpice  
+- **Linux scripting & automation**  
 
 ---
 
 ## 🔗 Connect with Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-PoleG97-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoleG97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jairo-garcia-glez)
 
 ---
 
@@ -48,7 +42,6 @@ I am an **Electronics Engineer** passionate about merging **hardware and softwar
 
 🔒 **Upcoming Releases (Work in Progress)**  
 - 🔥 **Course materials & schematics** from Fedevel courses *(Advanced Digital Hardware Design, Mixed Signal Hardware Design with KiCad)*  
-- 🛠️ **Hardware shield design** for CM5  
 - ⚡ **More projects coming soon...**  
 
 ---

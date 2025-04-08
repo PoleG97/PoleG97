@@ -38,10 +38,11 @@ I am an **Electronics Engineer** passionate about merging **hardware and softwar
 📡 **[Public Repositories](https://github.com/PoleG97?tab=repositories)**  
 🔹 **KiCad plugins & automation scripts** 🔌  
 🔹 **Python tools for Raspberry Pi** ⚙️  
+🔹 **Automation tool for ESP32 developing** 🛠️   
 🔹 **ESP32 and microcontroller firmware** 📡  
 
 🔒 **Upcoming Releases (Work in Progress)**  
-- 🔥 **Course materials & schematics** from Fedevel courses *(Advanced Digital Hardware Design, Mixed Signal Hardware Design with KiCad)*  
+- 🔥 **Course materials & schematics** from Fedevel courses *(Advanced Digital Hardware Design)*  
 - ⚡ **More projects coming soon...**  
 
 ---

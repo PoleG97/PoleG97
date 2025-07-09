@@ -15,7 +15,8 @@ I am an **Electronics Engineer** passionate about merging **hardware and softwar
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jairo-garcia-glez)
-[![Website](https://img.shields.io/badge/Website-hardlabs.net-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://hardlabs.net/)
+[![Website](https://img.shields.io/badge/🌐%20hardlabs.net-24292F?style=for-the-badge)](https://hardlabs.net/)
+
 
 ---
 
